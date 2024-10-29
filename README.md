@@ -1,4 +1,4 @@
-# Gestão de Frota / Fleet Management
+# Gestão de Frota / Fleet Management 🚗📈
 
 Este repositório contém o desenvolvimento de um site interativo para melhorar os métodos de gestão da frota da empresa. Como Analista de Frotas, nosso objetivo é criar uma plataforma que forneça dados e insights detalhados para ajudar as lideranças e os planejadores a controlar e otimizar o uso da frota.
 
